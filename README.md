@@ -1,6 +1,7 @@
 # Webhook Example
 
 A sample project demonstrating the webhook pattern between a **C# .NET 10 Minimal API** with SignalR and a **React + TypeScript** frontend, fully containerized with **Docker Compose**.
+
 ![](/assets/cover.png)
 ---
 
